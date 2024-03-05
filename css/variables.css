@@ -1,3 +1,10 @@
 :root{
-    --color-primary: ;
+    --color-primary:#EFAF64;
+    --color-secundary:#333333;
+    --color-ternary:#FFFFFF;
+    --color-botton: #FE6E06;
+    --color-card: #FAEFE3;
+
+    --font-primary: 'Times New Roman', Times, serif;
+    --font-secundary: sans-serif;
 }
